@@ -1,3 +1,2 @@
 # project-one
-my first project
-gggnn
+my first project(work in vs)
